@@ -29,3 +29,41 @@
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br><hr>
 
+<img align="left" width=290px height=180px alt="side_sticker" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  <b>Languages:</b> 
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
+  <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" /><br>
+  <b>Frameworks:</b>
+  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask" /><br>
+  <b>Tools & technologies:</b>
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/-Sublime-05122A?style=flat&logo=Sublime-Text" />
+  <img src="https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm" />
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman" /><br>
+  <b>Databases:</b>
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgreSQL" /><br>
+  <b>Operating Systems:</b>
+  <img src="https://img.shields.io/badge/-Raspberrypi-05122A?style=flat&logo=Raspberry-pi" />
+  <img src="https://img.shields.io/badge/-Windows-05122A?style=flat&logo=Windows" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=FFFFFF" /><br>
+  <hr>
+</p>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-15&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="mohit" />
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mohit-15&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br>
+
+-----

@@ -24,9 +24,8 @@
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a platform for securely storing & accessing data quickly with encryption.<br>
-✔ I’m currently learning about **Vue.js, Operating System Design & Cloud Architecture**🥰<br>
+✔ I’m currently learning about **Operating System Design & Cloud Architecture**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source Django/Nodejs projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br><hr>
 
 <img align="left" width=290px height=180px alt="side_sticker" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />

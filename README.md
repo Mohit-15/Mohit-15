@@ -23,7 +23,6 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a platform for securely storing & accessing data quickly with encryption.<br>
 ✔ I’m currently learning about **Operating System Design & Cloud Architecture**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source Django/Nodejs projects**<br>
 ✔ *I Always try to learn something new & try to complete all my tasks before the deadline with maximum accuracy!* 😎<br><hr>

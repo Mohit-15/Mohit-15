@@ -10,7 +10,7 @@
 <p align="center">
   <em>
     Hello, I am Mohit Gupta a <b>final year</b> undergraduate from <a href="http://www.ipu.ac.in/"> <b>GGSIPU</b>, Delhi</a>. <br>
-    <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Web Developer & Data Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30">, a <b>Web Developer & Data Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>who is <b>obsessed</b>
     with the <b>Data & Technologies.</b> and always looking for find patterns of which are hidden in the data. 
   </em> 
   <br>
@@ -20,7 +20,7 @@
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+***About me ....***
 
 ✔ Callme: ***He/Him*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently working on **REST, React & PostgreSQL/MySQL**.<br>

@@ -28,6 +28,7 @@
 ✔ I’m currently learning about **Natural Language Processing & LLMs**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source NLP Research Projects**<br>
 ✔ Working as a Researcher in <a href="https://midas.iiitd.ac.in/"><b>MIDAS</b></a> Lab IIITD: Multimodal Digital Media Analysis Lab😎<br>
+✔ Postgrad Course Work: [Github](https://github.com/mohit15-iiitd)
 
 <!--   <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" alt="mohit" /> -->
 <!--  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Mohit-15&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>

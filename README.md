@@ -9,7 +9,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Mohit Gupta a <b>final year</b> postgraduate from <a href="https://www.iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
+    Hello, I am Mohit Gupta a <b>final year</b> postgraduate student in CSE, Specialization in AI from <a href="https://www.iiitd.ac.in/"> <b>IIIT</b>, Delhi</a>. <br>
     <b>a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30">, a <b>Data Scientist & Data Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36">&nbsp,<br>who is <b>obsessed</b>
     with the <b>Data & Technologies.</b> and always looking to find hidden patterns in the data.
   </em> 
